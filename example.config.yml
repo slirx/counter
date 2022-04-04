@@ -1,0 +1,9 @@
+items:
+  -
+    label: "salary"
+    date: "2022-04-15"
+    diff: "days"
+  -
+    label: "yearly bonus"
+    date: "2022-07-01"
+    diff: "days"
